@@ -8,11 +8,11 @@
 
 
 
--- Azure Lib.
+`-- Azure Lib.
 azure.queue_on_teleport
 azure.request
 azure.execute
--- Main functions
+-- Main functions`
 
 newcclosure
 httpget
