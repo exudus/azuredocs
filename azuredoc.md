@@ -10,10 +10,10 @@
 
 
 
-`-- Azure Lib.
+## Azure Lib.
 azure.queue_on_teleport
 azure.request
-azure.execute`
+azure.execute
 
 
 -- Main functions
