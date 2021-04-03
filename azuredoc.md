@@ -1,7 +1,7 @@
 # Official Azure Function List
 
 
-##Credits
+## Credits
 * Alureon -  For making the list
 * Renegade - Owner of azure
 
